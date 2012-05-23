@@ -16,3 +16,7 @@ LS_FLAGS="-al"
 
 $LS $LS_FLAGS $HOME
 
+#some useful gnu programs
+#spliting the string by : and then showing the field 1
+echo 'aaa:bbb:ccc' | cut -f1 -d':'
+
