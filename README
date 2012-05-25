@@ -1,6 +1,13 @@
-Playing shell game
+=Playing shell game
 
 References
   http://www.arachnoid.com/linux/shell_programming.html
   http://www.cyberciti.biz/faq/bash-loop-over-file/
   http://www.panix.com/~elflord/unix/bash-tute.html
+
+TODO
+
+create folders to organize (maybe macro or micro)
+case http://www.softpanorama.org/Scripting/Shellorama/Control_structures/case_statement.shtml
+functional programming shell http://quasimal.com/posts/2012-05-21-funsh.html?utm_source=Coder+Weekly&utm_campaign=a6889de9de-Coder_Weekly_Issue_17&utm_medium=email
+user input http://unixhelp.ed.ac.uk/scrpt/scrpt2.3.html
